@@ -1,0 +1,35 @@
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\bin\Debug\Video Chat application.exe.config
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\bin\Debug\Video Chat application.exe
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\bin\Debug\Video Chat application.pdb
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\bin\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\bin\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\bin\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\bin\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\obj\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\obj\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\obj\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\obj\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\obj\Debug\Video Chat application.csproj.ResolveComReference.cache
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\obj\Debug\Video_Chat_application.chat_form.resources
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\obj\Debug\Video_Chat_application.Form1.resources
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\obj\Debug\Video_Chat_application.mainform.resources
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\obj\Debug\Video_Chat_application.Properties.Resources.resources
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\obj\Debug\Video Chat application.csproj.GenerateResource.Cache
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\obj\Debug\Video Chat application.exe.licenses
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\obj\Debug\Video Chat application.exe
+C:\Users\Asad\Documents\Visual Studio 2012\Projects\Video Chat application\Video Chat application\obj\Debug\Video Chat application.pdb
+C:\Users\ABC\OneDrive\Desktop\Video Chat application\Video Chat application\bin\Debug\Video Chat application.exe.config
+C:\Users\ABC\OneDrive\Desktop\Video Chat application\Video Chat application\obj\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\ABC\OneDrive\Desktop\Video Chat application\Video Chat application\obj\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\ABC\OneDrive\Desktop\Video Chat application\Video Chat application\obj\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\ABC\OneDrive\Desktop\Video Chat application\Video Chat application\obj\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\ABC\OneDrive\Desktop\Video Chat application\Video Chat application\obj\Debug\Video Chat application.csproj.ResolveComReference.cache
+C:\Users\ABC\OneDrive\Desktop\Video Chat application\Video Chat application\obj\Debug\Video Chat application.exe
+C:\Users\ABC\OneDrive\Desktop\Video Chat application\Video Chat application\obj\Debug\Video Chat application.pdb
+C:\Users\ABC\OneDrive\Desktop\Video Chat application\Video Chat application\obj\Debug\Video_Chat_application.chat_form.resources
+C:\Users\ABC\OneDrive\Desktop\Video Chat application\Video Chat application\obj\Debug\Video_Chat_application.Form1.resources
+C:\Users\ABC\OneDrive\Desktop\Video Chat application\Video Chat application\obj\Debug\Video_Chat_application.mainform.resources
+C:\Users\ABC\OneDrive\Desktop\Video Chat application\Video Chat application\obj\Debug\Video_Chat_application.Properties.Resources.resources
+C:\Users\ABC\OneDrive\Desktop\Video Chat application\Video Chat application\obj\Debug\Video Chat application.csproj.GenerateResource.Cache
+C:\Users\ABC\OneDrive\Desktop\Video Chat application\Video Chat application\obj\Debug\Video Chat application.exe.licenses
+C:\Users\ABC\OneDrive\Desktop\Video Chat application\Video Chat application\obj\Debug\Video Chat application.csprojResolveAssemblyReference.cache
